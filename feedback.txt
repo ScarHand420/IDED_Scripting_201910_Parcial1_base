@@ -1,0 +1,8 @@
+Parcial (4.0 / 5.0)
+	* Part ignora Durability si SpeedBonus > 0.5. No es el caso, puesto que Durability también afecta a SpeedBonus, sin importar su valor.
+	* El accesor Vehicle.MaxSpeed está modificando el valor del atributo baseMaxSpeed. Al equipar un vehículo con una parte mejorada, esto cambia sus stats base.	
+
+Bonificación (0.0 / 0.5)
+	No se presentó propuesta para la bonificación
+
+Total: 4.0 / 5.0
